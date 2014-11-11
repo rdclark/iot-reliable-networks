@@ -1,4 +1,4 @@
-% Reliable Distributed Applications Over the Web
+% Can the Web Connect the Internet of Things Reliably?
 % Richard Clark
 % November 17, 2014
 
